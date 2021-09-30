@@ -1,9 +1,21 @@
+# Respostas às questões
+**Questão 1**
 www.github.com/Jaumelan/my_first_steps.git
-git init
-git branch -M "main"
+
+**Questão 2**
+git init 
+git branch -M "main" 
 git remote add origin git@github.com:Jaumelan/my_first_steps.git
-git add ola_mundo.txt
-git commit -m "primeiro commit"
+git add ola_mundo.txt 
+git commit -m "primeiro commit" 
 git push -u origin main
-# ignore the file 
+
+**Questão 3**
+git add ola_mundo.txt 
+git commit -m "primeiro commit" 
+git push -u origin main
+
+**Questão 4**
+Dentro do .gitignore:
+#ignore the file
 serei_ignorado.txt
